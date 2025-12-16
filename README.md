@@ -13,3 +13,23 @@ A beginner-friendly Python project that calculates monthly loan repayment using 
 
 ## How to Run
 1. Clone the repository:
+
+2. Navigate to the project folder:
+
+3. Run the program:
+4. 
+## Sample Input
+Loan Amount: 500000
+Interest Rate: 10
+Duration: 5
+
+
+## Sample Output
+Monthly Payment: ₦10,624.65
+
+
+## Author
+Olamilekan Bakare
+
+
+
